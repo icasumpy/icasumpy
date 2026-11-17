@@ -26,9 +26,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=icasumpy&show_icons=true&theme=transparent&hide_border=true&title_color=69A99A&icon_color=69A99A" />
+<img src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icasumpy&layout=compact&theme=transparent&hide_border=true&title_color=69A99A" />
+<img src="./profile-summary-card-output/github/3-stats.svg" width="49%" />
+
+<img src="./profile-summary-card-output/github/1-repos-per-language.svg" width="49%" />
 
 </div>
 

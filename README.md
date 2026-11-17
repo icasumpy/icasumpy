@@ -68,6 +68,8 @@ An admin-based user management application.
 
 **Drowsiness Detection System**
 
+**[ngthmhau/DrowsinessDetection](https://github.com/ngthmhau/DrowsinessDetection)**
+
 A project focused on detecting drowsiness and providing alerts to improve driver and user awareness.
 
 - Real-time drowsiness monitoring

@@ -94,7 +94,7 @@ A practice project for learning software testing and test automation.
 
 ### ☕ Hotel Management System
 
-**Academic Project**
+**[icasumpy/toolshop-practice](https://github.com/icasumpy/toolshop-practice)**
 
 A desktop application developed to practice object-oriented programming and database operations.
 

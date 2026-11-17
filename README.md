@@ -1,6 +1,6 @@
  <div align="center">
 
-# 🌿 Hello, I'm Khánh Ly!
+# 🌿 Hello, I'm Khanh Ly!
 
 ### Software Engineering Student | Aspiring Software Developer
 

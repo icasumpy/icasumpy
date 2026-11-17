@@ -4,9 +4,15 @@
 
 ### Software Engineering Student | Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=69A99A&center=true&vCenter=true&width=520&lines=Learning+and+Growing+Every+Day+%F0%9F%8C%B1;Building+Projects+with+Code+%E2%9C%A8;Java+%7C+React+%7C+Python+%7C+Node.js;日本語を勉強しています+%F0%9F%8C%B8" />
 
-*Welcome to my little corner of GitHub!*
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1200&color=69A99A&center=true&vCenter=true&width=520&lines=Learning+and+Growing+Every+Day;Building+Projects+with+Code;Java+%7C+React+%7C+Python+%7C+Node.js;Aspiring+Software+Developer" alt="Typing SVG" />
+
+*Welcome to my little corner of GitHub! 🌷*
+
+</div>
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-icasumpy-69A99A?style=flat-square&logo=github&logoColor=white)](https://github.com/icasumpy)
 ![Profile Views](https://komarev.com/ghpvc/?username=icasumpy&label=Profile%20Views&color=69A99A&style=flat-square)
